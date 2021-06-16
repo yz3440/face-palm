@@ -1,5 +1,5 @@
 # Face Palm (2018)
-![Cover](./cover.jpg)
+[![Cover](./cover.jpg)](https://www.youtube.com/watch?v=vZ1iL9T_t7g)
 
 
 ## Description
